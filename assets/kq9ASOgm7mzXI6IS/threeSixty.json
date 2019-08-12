@@ -1,0 +1,49 @@
+{
+  "version": "3.30.19518.0",
+  "scenes": [
+    {
+      "title": "Sales Leader"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6HH9SS7LJBV",
+      "title": "Sales Leader Scenario",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6mN62bfiaUd",
+      "title": "The Sales Leader",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6ild5SVQK2b",
+      "title": "The Sales Leader Scenario",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6CBmCe0Ym9d",
+      "title": "The Sales Leader Scenario",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5tJPa07NCoP",
+      "title": "The Sales Leader Scenario",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6HBih2USSCz",
+      "title": "Scenario complete",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
